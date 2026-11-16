@@ -1,3 +1,13 @@
+.. embryo-brand
+
+==========
+Embryo Sim
+==========
+
+**Embryo Sim** is Embryo-Zero's fork of `Verilator <https://github.com/verilator/verilator>`_, made by Embryo Zero Backyard Data Center Corporation. Our changes are on the ``embryo`` branch; see EMBRYO.md, LEGAL.md and CHANGES-EMBRYO.md. The original project's README follows unchanged, with its authors' credits.
+
+----
+
 ..
    Github doesn't render images unless absolute URL
    Do not know of a conditional tag, "only: github" nor "github display" works
